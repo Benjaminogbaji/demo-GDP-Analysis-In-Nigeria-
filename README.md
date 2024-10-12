@@ -30,15 +30,23 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 <a href = "https://nigerianstat.gov.ng/elibrary/read/1241549"> National Bereau of Statics <a/>
 
 ## Data Model
+
 The data was cleaned and normalized in Excel before being transformed in Power Querry. the raw data was split into Norminal and Real GDP and the indirect tax was seperated. the date table was also created in power Querry. 
-![Data Model](https://github.com/Benjaminogbaji/demo-GDP-Analysis-In-Nigeria-/blob/main/Images/gdp%20data%20modeling%20view%20.png)
+![Data Model](https://github.com/Benjaminogbaji/demo-GDP-Analysis-In-Nigeria-/blob/main/Images/Model%20of%20the%20data%20.png)
 
 ## Dashboard insights 
-
 ### Overview
+the current quater GDP is N18.29 trillion following 0.04% increase compare to the previews quarter 
+
+![Overview Dashboard](https://github.com/Benjaminogbaji/demo-GDP-Analysis-In-Nigeria-/blob/main/Images/Main%20overview%20of%20the%20gdp%20.png)
 
 ### GDP by Sector Analysis
 
+![GDP By Activity Sector](https://github.com/Benjaminogbaji/demo-GDP-Analysis-In-Nigeria-/blob/main/Images/gdp%20by%20Activity%20Sector%20.png)
+
 ## Recommendations
-## Download
-This Repository Detailed the Analysis and Vitualization of GDP in Nigeria from 2020 to 2024 
+
+## Download
+
+<a href = "https://github.com/Benjaminogbaji/demo-GDP-Analysis-In-Nigeria-/raw/refs/heads/main/Images/Benjamin%20GDP%20Analysis.pbix"> Download the Power BI File <a/>
+  
