@@ -37,14 +37,17 @@ The data was cleaned and normalized in Excel before being transformed in Power Q
 ## Dashboard insights 
 ### Overview
 the current quater GDP is N18.29 trillion following 0.04% increase compare to the previews quarter 
+there was a percentage decrease of -16.05% in the first quarter 2024 following an increase of 11.99% recorded  in the last quarter of 2023
 
-![Overview Dashboard](https://github.com/Benjaminogbaji/demo-GDP-Analysis-In-Nigeria-/blob/main/Images/Main%20overview%20of%20the%20gdp%20.png)
+![Overview Dashboard](https://github.com/Benjaminogbaji/demo-GDP-Analysis-In-Nigeria-/blob/main/Images/GDP%20Overview%202024.png)
 
 ### GDP by Sector Analysis
+crop production accounted for the majority of the increase among Activity sector. offsetting the decrease of 'fishing'. The relative contributions made by 'livestock' and production' changed the most.
 
 ![GDP By Activity Sector](https://github.com/Benjaminogbaji/demo-GDP-Analysis-In-Nigeria-/blob/main/Images/gdp%20by%20Activity%20Sector%20.png)
 
 ## Recommendations
+- The services sector, especially ICT and banking, is expected to continue driving growth, while agriculture may see seasonal gains from the harvest in Q3​
 
 ## Download
 
